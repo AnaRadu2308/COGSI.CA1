@@ -1,7 +1,7 @@
-CA1 – Version Control Assignment
+CA1– Version Control Assignment
 
 
-Part 1 – Working on Main Branch 
+Part 1: Working on Main Branch 
 
 
 1.Clone and Set Up the Repository
