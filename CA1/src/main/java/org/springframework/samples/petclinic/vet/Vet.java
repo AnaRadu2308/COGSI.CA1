@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-// Edited in feature-A branch
+// Merged comment: combined changes from feature-A and feature-B
 
 package org.springframework.samples.petclinic.vet;
 
