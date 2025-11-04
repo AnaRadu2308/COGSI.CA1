@@ -1,9 +1,11 @@
-INSERT INTO vets VALUES (default, 'James', 'Carter');
-INSERT INTO vets VALUES (default, 'Helen', 'Leary');
-INSERT INTO vets VALUES (default, 'Linda', 'Douglas');
-INSERT INTO vets VALUES (default, 'Rafael', 'Ortega');
-INSERT INTO vets VALUES (default, 'Henry', 'Stevens');
-INSERT INTO vets VALUES (default, 'Sharon', 'Jenkins');
+INSERT INTO vets (id, first_name, last_name, email) VALUES
+(default, 'James', 'Carter', 'james.carter@clinic.com'),
+(default, 'Helen', 'Leary', 'helen.leary@clinic.com'),
+(default, 'Linda', 'Douglas', 'linda.douglas@clinic.com'),
+(default, 'Rafael', 'Ortega', 'rafael.ortega@clinic.com'),
+(default, 'Henry', 'Stevens', 'henry.stevens@clinic.com'),
+(default, 'Sharon', 'Jenkins', 'sharon.jenkins@clinic.com');
+
 
 INSERT INTO specialties VALUES (default, 'radiology');
 INSERT INTO specialties VALUES (default, 'surgery');
