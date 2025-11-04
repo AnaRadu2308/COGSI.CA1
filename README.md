@@ -42,9 +42,12 @@ I explored git log with several useful options to customize the output:
 What I looked for:
 
 -oneline: quick overview of the history
+
 -graph: branches and merges drawn in the terminal
+
 -decorate: shows where HEAD, origin/main, and tags are
--pretty=format: colors and fields (hash %h, relative date %cr, author %an, message %s)
+
+-pretty=format: colors and fields (%h, %cr, %an, %s)
 
 4.Reverting Changes
 
