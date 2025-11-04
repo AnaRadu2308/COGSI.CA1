@@ -15,6 +15,9 @@
  * limitations under the License.
  */
 
+// Edited in feature-A branch
+// Edited in feature-B branch
+
 package org.springframework.samples.petclinic.vet;
 
 import java.util.Comparator;
