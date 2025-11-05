@@ -77,8 +77,7 @@ I updated Vet.java to include email,schema.sql and data.sql and vetList.html to 
 
 After verifying it worked (by running on localhost and seeing the new email column in the web app):
 
-![imgg1 13](https://github.com/user-attachments/assets/33dfa187-172f-4623-808f-9e4a4435be24)
-
+![Uploading img2.13.png…]()
 
 I committed and merged the feature back into main afterwards
 
